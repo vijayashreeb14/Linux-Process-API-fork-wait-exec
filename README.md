@@ -46,6 +46,10 @@ int main(void)
 ~~~
 
 ##OUTPUT
+
+
+
+
 ![image](https://github.com/user-attachments/assets/ef07bd0c-d56a-45a9-b5a5-e2871acb4113)
 
 ## C Program to create new process using Linux API system calls fork() and exit()
@@ -75,6 +79,15 @@ int main() {
 ~~~
 
 ##OUTPUT
+
+
+
+
+
+
+
+
+
 ![image](https://github.com/user-attachments/assets/55996ca8-9df8-40a4-a87d-2bb7ad3b00ea)
 
 
@@ -111,6 +124,12 @@ int main() {
 ~~~
 
 ##OUTPUT
+
+
+
+
+
+
 ![image](https://github.com/user-attachments/assets/dad0897a-3a57-4f51-a34b-58578c151d34)
 
 RESULT:
