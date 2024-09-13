@@ -132,10 +132,6 @@ int main() {
 
 ![image](https://github.com/user-attachments/assets/dad0897a-3a57-4f51-a34b-58578c151d34)
 
-RESULT:
-The programs are executed successfully.
-
-
 
 
 
